@@ -1,4 +1,5 @@
 import math
+#aceita ai meu pr
 
 x1, y1 = input().split()
 x2, y2 = input().split()
