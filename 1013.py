@@ -2,6 +2,8 @@ import math
 
 a, b, c = input().split()
 
+#Recebe valores inteiros#
+
 a = int(a)
 b = int(b)
 c = int(c)
