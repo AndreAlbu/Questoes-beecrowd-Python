@@ -27,3 +27,4 @@ elif(k <= 50):
 elif(k <= 100):
 
     print("Top 100")
+elif(k =40)
