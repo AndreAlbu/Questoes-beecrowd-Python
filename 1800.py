@@ -17,3 +17,5 @@ for i in range(qtdEscritorios):
 
         print(1)
         outrosEscritorios.append(escritorio)
+
+int a=10
