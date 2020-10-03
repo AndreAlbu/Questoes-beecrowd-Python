@@ -1,3 +1,5 @@
+#coding:utf-8
+
 a, b, c = input().split()
 
 a = float(a)
@@ -16,8 +18,8 @@ retangulo = a * b
 
 #Exibe os resultados na tela#
 
-print("TRIANGULO: {0:.3f}".format(triangulo))
-print("CIRCULO: {0:.3f}".format(circulo))
-print("TRAPEZIO: {0:.3f}".format(trapezio))
+print("TRIÂNGULO: {0:.3f}".format(triangulo))
+print("CÍRCULO: {0:.3f}".format(circulo))
+print("TRAPÉZIO: {0:.3f}".format(trapezio))
 print("QUADRADO: {0:.3f}".format(quadrado))
-print("RETANGULO: {0:.3f}".format(retangulo))
+print("RETÂNGULO: {0:.3f}".format(retangulo))
