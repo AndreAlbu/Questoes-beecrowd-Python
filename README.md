@@ -1,7 +1,16 @@
-# Questoes---URI---Python
+# Questões na Linguagem Python
 
-Faça a sua contribuição.
+Resolução de algumas questões do site [beecrowd](https://www.beecrowd.com.br/judge/en/login) na linguagem Python.
 
-Para adicionar novos código faça o upload file ou create new file.
 
-Modelo: código-da-questão.py
+## Contribuindo
+
+Contribuições são sempre bem-vindas!
+
+Para contribuir utilize a seguinte forma:
+
+
+
+```
+  codigo.py
+```
