@@ -13,6 +13,7 @@ while(True):
             i = (10 * i + 1) % num
 
             cout = cout + 1
+            #resultado
 
         print(cout + 1)
 
