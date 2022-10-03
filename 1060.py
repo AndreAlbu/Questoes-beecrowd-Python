@@ -11,5 +11,6 @@ while(i < 6):
         cout = cout + 1
 
     i = i + 1
+    #resultado
 
 print("{} valores positivos".format(cout))
