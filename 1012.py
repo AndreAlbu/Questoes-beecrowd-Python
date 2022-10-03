@@ -17,6 +17,8 @@ retangulo = a * b
 #Exibe os resultados na tela#
 print("Resultados abaixo")
 
+#Resultados
+
 print("TRIANGULO: {0:.3f}".format(triangulo))
 print("CIRCULO: {0:.3f}".format(circulo))
 print("TRAPEZIO: {0:.3f}".format(trapezio))
