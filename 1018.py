@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 n = int(input())
 notas = [100, 50, 20, 10, 5, 2, 1]
 
