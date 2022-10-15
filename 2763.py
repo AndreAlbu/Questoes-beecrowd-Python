@@ -1,0 +1,6 @@
+cpf = input().split(".")
+ud = ".".join(cpf[2])
+print(cpf[0])
+print(cpf[1])
+print(ud[0:5].replace('.',''))
+print(ud[8:11].replace('.',''))
