@@ -17,7 +17,7 @@ retangulo = a * b
 #Exibe os resultados na tela#
 print("Resultados abaixo")
 
-#Resultados
+#Resultado final
 
 print("TRIANGULO: {0:.3f}".format(triangulo))
 print("CIRCULO: {0:.3f}".format(circulo))
